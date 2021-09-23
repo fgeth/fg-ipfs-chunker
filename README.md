@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
 [![](https://img.shields.io/badge/project-IPFS-blue.svg?style=flat-square)](http://ipfs.io/)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![GoDoc](https://godoc.org/github.com/ipfs/go-ipfs-chunker?status.svg)](https://godoc.org/github.com/ipfs/go-ipfs-chunker)
+[![GoDoc](https://godoc.org/github.com/fgeth/fg-ipfs-chunker?status.svg)](https://godoc.org/github.com/fgeth/fg-ipfs-chunker)
 [![Build Status](https://travis-ci.org/ipfs/go-ipfs-chunker.svg?branch=master)](https://travis-ci.org/ipfs/go-ipfs-chunker)
 
 > go-ipfs-chunker implements data Splitters for go-ipfs.
@@ -28,16 +28,16 @@ The package provides a `SizeSplitter` which creates chunks of equal size and it 
 `go-ipfs-chunker` works like a regular Go module:
 
 ```
-> go get github.com/ipfs/go-ipfs-chunker
+> go get github.com/fgeth/fg-ipfs-chunker
 ```
 
 ## Usage
 
 ```
-import "github.com/ipfs/go-ipfs-chunker"
+import "github.com/fgeth/fg-ipfs-chunker"
 ```
 
-Check the [GoDoc documentation](https://godoc.org/github.com/ipfs/go-ipfs-chunker)
+Check the [GoDoc documentation](https://godoc.org/github.com/fgeth/fg-ipfs-chunker)
 
 ## Contribute
 
